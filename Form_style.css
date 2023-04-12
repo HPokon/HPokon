@@ -1,0 +1,53 @@
+body  {
+  margin: 0px;
+}
+.header {
+  background-color: green;
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+.header h1{
+  text-shadow: 3px 3px 6px black;
+}
+ 
+ 
+ 
+.field1 fieldset{
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: lightgray;
+  padding: 2px;
+  border-radius: 10px;
+
+}
+.field1 legend{
+  background-color: white;
+  color: red;
+  padding: 3px;
+  border-radius: 10px;
+}
+.field2 feildset{
+  background-color: green;
+  
+  
+}
+
+
+.dep{
+  float: right;
+}
+.Env{
+  float: right;
+}
+.sci{
+  float: right;
+}
+.lev{
+  float: center;
+}
+input[ type="submit"]{
+  padding: 5px
+}
